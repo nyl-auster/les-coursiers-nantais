@@ -1,6 +1,6 @@
 # PITCH
 
-# 1) L’histoire des coursiers
+# 1) L’origine des Coursiers Nantais
 
 - Des coursiers passionnés qui vivent du vélo grâve à Take It Easy
 - Take It Easy qui ferme suite à un arrêt brutal des investissements
