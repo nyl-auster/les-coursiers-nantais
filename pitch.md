@@ -4,7 +4,7 @@
 
 - Des passionnés de vélo qui trouvent avec *Take It Easy* le moyen d'en vivre
 - *Take It Easy* ferme suite à un retrait soudain des investisseurs
-- Des centaines d'euros perdu pour les coursiers qui travaillent ensuite pour Deliveroo
+- Des centaines d'euros perdus pour les coursiers qui travaillent ensuite pour Deliveroo
 - Des Manifs Deliveroo dans le pays suite à la suppression du tarif horaire imposée aux livreur/ses
 
 # 2) Les problème identifiés
