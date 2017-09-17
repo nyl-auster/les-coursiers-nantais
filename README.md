@@ -1,7 +1,8 @@
 # PITCH
 
 # 1) L’histoire des coursiers
- Des coursiers qui aiment leur métier
+
+- Des coursiers qui aiment leur métier
 - TakeItEasy qui ferme,
 - (Manifs) Deliveroo suite à baisse de tarifs
 
