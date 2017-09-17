@@ -20,7 +20,7 @@
 - Insatisfaction clientèle élevée due à des solutions de livraisons souvent inadaptées ( ex : pizza trop grande )
 - Elles ont besoin d'un énorme nombre de flux à ponctionner pour survivre, l'acquisition client leur coute très cher.
 
-# 3) - Comment créer de l’emploi face aux mastodontes de la food-tech ? Notre solution
+# 3) Comment créer de l’emploi face aux mastodontes de la food-tech ? Notre solution
 
 - Une approche locale, au cas par cas
 - Des solutions de livraison optimisées ( vélos cargos, box isotherme de qualité etc ...)
@@ -32,7 +32,7 @@
 - Protection sociale
 - Mutualisation des frais d'activité ( entretien du matériel et achats )
 
-# 6) - Notre horizon dans cinq ans ?
+# 6) Notre horizon dans cinq ans ?
 
 - 100 livreurs :D
 - développer des nouveaux services de logistique urbaine écologiques ( Déjà en lien avec des partenaires sur le développement de ces activités )
