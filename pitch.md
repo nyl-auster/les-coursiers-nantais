@@ -5,7 +5,7 @@
 - Des coursiers passionnés qui vivent du vélo grâve à Take It Easy
 - Take It Easy qui ferme suite à un arrêt brutal des investissements
 - De l'argent perdu pour les coursiers qui travaillent ensuite pour Deliveroo
-- Des Manifs Deliveroo dans le pays suite à baisse de tarifs à la course imposée
+- Des Manifs Deliveroo dans le pays suite à baisse des tarifs imposée aux livreur/ses
 
 # 2) Les problème identifiés
 ## Conditions de travail
