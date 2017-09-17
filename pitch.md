@@ -2,10 +2,10 @@
 
 # 1) L’origine des Coursiers Nantais
 
-- Des coursiers passionnés qui vivent du vélo grâve à Take It Easy
-- Take It Easy qui ferme suite à un arrêt brutal des investissements
-- De l'argent perdu pour les coursiers qui travaillent ensuite pour Deliveroo
-- Des Manifs Deliveroo dans le pays suite à baisse des tarifs imposée aux livreur/ses
+- Des passionnés de vélo qui trouvent avec *Take It Easy* le moyen d'en vivre
+- *Take It Easy* ferme suite à un retrait soudain des investisseurs
+- Des centaines d'euros perdu pour les coursiers qui travaillent ensuite pour Deliveroo
+- Des Manifs Deliveroo dans le pays suite à la suppression du tarif horaire imposée aux livreur/ses
 
 # 2) Les problème identifiés
 ## Conditions de travail
