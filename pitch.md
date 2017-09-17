@@ -35,7 +35,5 @@
 # 6) - Notre horizon dans cinq ans ?
 
 - 100 livreurs :D
-- développer des nouveaux services de logistique urbaine écologiques
-- Les circuits courts ont aussi un dernier kilomètre
-- Déjà en lien avec des partenaires sur le développement de ces activités
+- développer des nouveaux services de logistique urbaine écologiques ( Déjà en lien avec des partenaires sur le développement de ces activités )
 - Une structure duplicable pour d'autres coursiers dans d'autres villes
