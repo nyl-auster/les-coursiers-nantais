@@ -3,7 +3,7 @@
 # 1) L’histoire des coursiers
 
 - Des coursiers qui aiment leur métier
-- TakeItEasy qui ferme,
+- TakeItEasy qui ferme
 - (Manifs) Deliveroo suite à baisse de tarifs
 
 # 2) Les problème identifiés
