@@ -38,3 +38,4 @@
 - développer des nouveaux services de logistique urbaine écologiques
 - Les circuits courts ont aussi un dernier kilomètre
 - Déjà en lien avec des partenaires sur le développement de ces activités
+- Une structure duplicable pour d'autres coursiers dans d'autres villes
