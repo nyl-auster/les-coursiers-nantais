@@ -1,5 +1,9 @@
 # PITCH
 
+# 0) Intro
+
+Nous sommes Christophe, Leo, Fabrice, Simon ( Coursiers et porteurs du projets) et Yann (développeur et porteur du projet), nous avons décidé de monter une coopérative de livreurs en vélo en réponse aux difficultés soulevés par l'ubérisation de la livraison à domicile. Mais revenons d'abord à l'histoire du projet:
+
 # 1) L’origine des Coursiers Nantais
 
 - Des passionnés de vélo qui trouvent avec *Take It Easy* le moyen d'en vivre
@@ -7,7 +11,8 @@
 - Des centaines d'euros perdus pour les coursiers qui travaillent ensuite pour Deliveroo
 - Des Manifs Deliveroo dans le pays suite à la suppression du tarif horaire imposée aux livreur/ses
 
-# 2) Les problème identifiés
+# 2) Les problèmes liés à l'ubérisation de la livraison à domicile
+
 ## Conditions de travail
 - Aucune protection sociale dans un métier à risque
 - Pas de revenu fixe garanti et emploi de temps imprévisible
