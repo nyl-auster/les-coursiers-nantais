@@ -4,12 +4,13 @@
 
 Nous sommes Christophe, Leo, Fabrice, Simon ( Coursiers et porteurs du projets) et Yann (développeur et porteur du projet), nous avons décidé de monter une coopérative de livreurs en vélo en réponse aux difficultés soulevés par l'ubérisation de la livraison à domicile. Mais revenons d'abord à l'histoire du projet:
 
-# 1) L’origine des Coursiers Nantais
+# 1) A l’origine des Coursiers Nantais
 
-- Des passionnés de vélo qui trouvent avec *Take It Easy* le moyen d'en vivre
+- Des passionnés de vélo qui trouvent avec *Take It Easy* le moyen de vivre de leur passion
 - *Take It Easy* disparait suite à un retrait soudain des investisseurs
 - Des centaines d'euros perdus pour les coursiers qui travaillent ensuite pour Deliveroo
-- Des Manifs Deliveroo dans le pays suite à la suppression du tarif horaire imposée aux livreur/ses
+- A ce moment à Nantes, Tut commencent à travailler sur l'idée d'une coopérative de livreurs en réaction à ces évènements
+- Des Manifs Deliveroo dans le pays suite à la suppression du tarif horaire imposée aux livreur/ses, le débat se porte au niveau national voire multinationale 
 
 # 2) Les problèmes liés à l'ubérisation de la livraison à domicile
 
@@ -25,17 +26,25 @@ Nous sommes Christophe, Leo, Fabrice, Simon ( Coursiers et porteurs du projets) 
 - Insatisfaction clientèle élevée due à des solutions de livraisons souvent inadaptées ( ex : pizza trop grande )
 - Elles ont besoin d'un énorme nombre de flux à ponctionner pour survivre, l'acquisition client leur coute très cher.
 
-# 3) Comment créer de l’emploi face aux mastodontes de la food-tech ? Notre solution
+# 3) Comment créer de l’emploi face aux mastodontes de la food-tech ? 
+# Avec un service premium sur mesure et de proximité qui crée plus de valeur ajoutée
 
-- Une approche locale, au cas par cas
-- Des solutions de livraison optimisées ( vélos cargos, box isotherme de qualité etc ...)
-- Satisfaction du client final maximisée grâce à une qualité de service premium
+- Il y a des restaurateurs insatisfaits de Deliveroo (produit inadapté et taux d'insatisfaction client élevé ), ou qui ne veulent pas travailler avec ce genre de plateforme parce que les produits ne le permettent pas ou pour des raisons plus éthiques : tisser avec eux un partenariat exclusif privilégié
+- Un meilleur équipement qui permet de livrer ce que les startups de la food-tech ne peut pas livrer, notamment via les vélos cargos qui peuvent déplacer des volumes plus important avec une meilleure protection du produit
+- proches et faciles à joindre : le restaurateur peut très facilement nous joindre et n'a pas à s'occuper lui même du service après vente, ce qui lui permet de se concentrer sur son activité
+- S'appuyer sur l'expertise et l'intelligence des coursiers qui ont une relation privilégié avec le commerçant
+- Avec pour objectif d'augmenter la satisfaction du client final via un service premium
+- Un logiciel personnalisable qui nous permet de créer des grilles tarifs personnalisés
 
-# 4) S’organiser en coopérative
+# 4) Autre pistes : la logistique urbaine
 
-- Des bénéfices qui profitent aux coursiers et la pérennité de la structure
-- Protection sociale
-- Mutualisation des frais d'activité ( entretien du matériel et achats )
+Les villes européenne essaient d'opérer pour 2030 une profonde mutation écologique et aussi logistique. La logistique à vélo s'avèrent un choix écologique et rapide pour la logistique de flux interne à la ville, en B2B ou B2C.
+Avec l'essor des Drives qui est une tendance aussi bien pour les supermarchés que pour les fermes autour de la ville, les livraison à domicile qui explosent grâcex aux boutiques en lignes, la volonté pour les gens de pouvoir être livré à l'heure qui les arrange, le travail ne manque pas
+
+# 5) Pourquoi s’organiser en coopérative ?
+
+- Un message politique sur le partage et captation de la valeur ajoutée : les bénéfices profitent aux coursiers et la pérennité de la structure et montrer notre investissement dans une économie locale positive
+- + avantages d'une société : protection sociale, mutualisation les dépenses, acheter en gros ( entretien du matériel )
 
 # 6) Notre horizon dans cinq ans ?
 
