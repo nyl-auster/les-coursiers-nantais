@@ -51,7 +51,7 @@ Nous sommes Christophe, Leo, Fabrice, Simon ( Coursiers et porteurs du projets) 
 - Un message politique sur le partage et captation de la valeur ajoutée : les bénéfices profitent aux coursiers et la pérennité de la structure et montrer notre investissement dans une économie locale positive
 - + avantages d'une société : protection sociale, mutualisation les dépenses, acheter en gros ( entretien du matériel )
 
-# 6) Notre horizon dans cinq ans ?
+# 6) Notre utopie dans cinq ans ?
 
 - on ne sait pas pour on sera dans un mois !
 - développer des nouveaux services de logistique urbaine écologiques ( Déjà en lien avec des partenaires sur le développement de ces activités )
