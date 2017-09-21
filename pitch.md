@@ -28,7 +28,8 @@ Nous sommes Christophe, Leo, Fabrice, Simon ( Coursiers et porteurs du projets) 
 - Elles ont besoin d'un énorme nombre de flux à ponctionner pour survivre, l'acquisition client leur coute très cher.
 
 # 3) Comment créer de l’emploi face aux mastodontes de la food-tech ? 
-# Avec un service premium sur mesure et de proximité qui crée plus de valeur ajoutée
+
+# Avec un service food premium sur mesure et de proximité qui crée plus de valeur ajoutée
 
 - Il y a des restaurateurs insatisfaits de Deliveroo (produit inadapté et taux d'insatisfaction client élevé ), ou qui ne veulent pas travailler avec ce genre de plateforme parce que les produits ne le permettent pas ou pour des raisons plus éthiques : tisser avec eux un partenariat exclusif privilégié
 - Un meilleur équipement qui permet de livrer ce que les startups de la food-tech ne peut pas livrer, notamment via les vélos cargos qui peuvent déplacer des volumes plus important avec une meilleure protection du produit
@@ -39,8 +40,11 @@ Nous sommes Christophe, Leo, Fabrice, Simon ( Coursiers et porteurs du projets) 
 
 # 4) Autre pistes : la logistique urbaine
 
-Les villes européenne essaient d'opérer pour 2030 une profonde mutation écologique et aussi logistique. La logistique à vélo s'avèrent un choix écologique et rapide pour la logistique de flux interne à la ville, en B2B ou B2C.
-Avec l'essor des Drives qui est une tendance aussi bien pour les supermarchés que pour les fermes autour de la ville, les livraison à domicile qui explosent grâcex aux boutiques en lignes, la volonté pour les gens de pouvoir être livré à l'heure qui les arrange, le travail ne manque pas
+- 25 millions de colis de plus d'une année sur l'autre ( boutiques en lignes )
+- un taux de retour des colis entre 20% et 50%
+- la mutation des villes à horizon 2030 : moins de voitures et de camions désirées, moins de polution
+- livraison de courses ( drive, commande sur internet )
+
 
 # 5) Pourquoi s’organiser en coopérative ?
 
@@ -49,6 +53,5 @@ Avec l'essor des Drives qui est une tendance aussi bien pour les supermarchés q
 
 # 6) Notre horizon dans cinq ans ?
 
-- 100 livreurs :D
 - développer des nouveaux services de logistique urbaine écologiques ( Déjà en lien avec des partenaires sur le développement de ces activités )
 - Une structure duplicable pour d'autres coursiers dans d'autres villes
