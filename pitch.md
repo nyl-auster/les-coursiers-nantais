@@ -1,6 +1,6 @@
 # PITCH
 
-# 0) [ LEO ou TUT ] Intro 
+# 0) [ LEO ] Intro 
 
 Nous sommes Christophe, Leo, Fabrice, Simon ( Coursiers et porteurs du projets) et Yann (développeur et porteur du projet), nous avons décidé de monter une coopérative de livreurs en vélo en réponse aux difficultés soulevés par l'ubérisation de la livraison à domicile. Mais revenons d'abord à l'histoire du projet:
 
