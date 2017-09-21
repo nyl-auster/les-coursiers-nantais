@@ -6,11 +6,12 @@ Nous sommes Christophe, Leo, Fabrice, Simon ( Coursiers et porteurs du projets) 
 
 # 1) A l’origine des Coursiers Nantais
 
-- Des passionnés de vélo qui trouvent avec *Take It Easy* le moyen de vivre de leur passion
-- *Take It Easy* disparait suite à un retrait soudain des investisseurs
-- Des centaines d'euros perdus pour les coursiers qui travaillent ensuite pour Deliveroo
-- A ce moment à Nantes, Tut commencent à travailler sur l'idée d'une coopérative de livreurs en réaction à ces évènements
-- Des Manifs Deliveroo dans le pays suite à la suppression du tarif horaire imposée aux livreur/ses, le débat se porte au niveau national voire multinationale 
+- A l'origine il y a des passionnés de vélo qui trouvent avec *Take It Easy*, la première startup de livraison de repase à domicile, le moyen de vivre de leur passion avec un salaire tout à fait décent
+- Mais *Take It Easy* disparait suite à un retrait brutal des investisseurs
+- Ce sont des centaines d'euros perdus pour les coursiers qui travaillent ensuite pour Deliveroo, et aussi le début d'une conscientisation des limites de ces modèles économiques.
+- Pendant ce temps là à Nantes, Tut commencent à travailler sur l'idée d'une coopérative de livreurs en réaction à ces évènements
+- Deliveroo à sont tour débarque à Nantes et offres aux coursiers l'occasion de remontrer sur leur vélo pour gagner de l'argent et se "refaire". Suivront bientôt Foodora puis Uber eats.
+- Des Manifs Deliveroo dans le pays suite à la suppression du tarif horaire imposée aux livreur/ses qui doit réduire les coûts de la masse salariale, le débat se porte au niveau national voir international et les indépendants s'organisent en syndicats.
 
 # 2) Les problèmes liés à l'ubérisation de la livraison à domicile
 
