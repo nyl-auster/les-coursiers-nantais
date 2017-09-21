@@ -53,5 +53,6 @@ Nous sommes Christophe, Leo, Fabrice, Simon ( Coursiers et porteurs du projets) 
 
 # 6) Notre horizon dans cinq ans ?
 
+- on ne sait pas pour on sera dans un mois !
 - développer des nouveaux services de logistique urbaine écologiques ( Déjà en lien avec des partenaires sur le développement de ces activités )
 - Une structure duplicable pour d'autres coursiers dans d'autres villes
